@@ -1,4 +1,4 @@
-# 🏄‍♂️ sid-codes-7
+# 🧠 sid-codes-7
 
 **`Code Explorer: Navigating the World of Software Development(developer, crafter, and thinker)`**
 
