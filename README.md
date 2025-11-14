@@ -4,13 +4,13 @@
 
 About Me 
 
-From afar, I create the appearance of a code-crafter 7-thousand-a-day, a rising software developer who wishes the world to create innovative and impactful digital solutions. And thus my coding journey began in as it was a curious mind trying to learn how technology shapes the world. That makes me ever eager to learn and upskill.
+I am a developer who likes to develop games and apps. It is a part of my hobby when I get time. It is a very vast and cool hobby that helps the human brain with critical thinking and problem-solving.
 
 My areas of expertise include HTML, Python, CSS, and JavaScript. I build websites and games, and as I move forward, I will soon find myself delving into AI, backend, frontend, and mobile apps.
 
-While not coding, basketball is what occupies me, along with cardboard crafts and studies. I am very keen on working on projects that solve actual problems in the real world and thus improve the user experience.
+While not coding, basketball is what occupies me, along with cardboard crafts and studies. I am very keen on working on projects that solve actual problems in the real world and thus improve myself and the user who interacts with it.
 
-Give me a shout if you want to connect- I am so full of ideas to share and collaborate on while growing in this ever-evolving field!
+Give me a shout if you want to connect. I am so full of ideas to share and collaborate on while growing in this evolving field!
 
 ---
 
